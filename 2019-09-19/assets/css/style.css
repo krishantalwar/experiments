@@ -5,15 +5,14 @@ body{
     font-family: cursive,monospace;
     
 }
+
+h2{
+    text-align:center;
+}
+
+
 .head{
 
     text-align: center; 
 }
 
-p{
-    font-size: 20px;
-}
-
-span{
-    font-size: 18px;
-}
