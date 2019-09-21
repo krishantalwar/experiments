@@ -27,6 +27,13 @@ header{
 	
 }
 
+.aione-nav ul li a {
+    text-align: center;
+    padding: 4px 23px;
+    color: white;
+    font-size: 27px;
+}
+
 .aione-nav.horizontal {
 	border-bottom: 0px;
 }
