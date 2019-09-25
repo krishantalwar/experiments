@@ -1,0 +1,185 @@
+span{
+    font-size: 16px;
+}
+
+
+.pos{
+    position: absolute ;
+    margin-top: 33px;
+    width: 100%;
+
+}
+.menue{
+    position: absolute;
+    position: fixed;
+    /* overflow: auto; */
+    background: white;
+    margin: auto;
+    padding: 12px;
+    z-index: 1;
+}
+
+.aione-nav.horizontal {
+    border-bottom: 0px solid #e8e8e8;
+
+}
+
+.s20{
+    float: left;
+    padding-left: 0px;
+}
+
+.s20 ul{
+    float: left;
+}
+
+.s20 ul li{
+    float:left;
+    font-size: xx-large;
+    font-weight: bolder;
+
+}
+
+.s20 ul li{
+    padding-left: 10px;
+}
+
+.aione_nav .aione_menue .aione_nav_item > a span::after{
+    position: absolute;
+    content: '';
+    width: 8px;
+    height: 4px;
+    background-color: #0067f4;
+    left: 50%;
+    margin: 0 2px;
+    bottom: 14px;
+    
+}
+
+
+
+.shadow{
+
+width: 100%;
+height: 24%;
+position: absolute;
+background: linear-gradient(191deg, aliceblue, transparent);
+}
+
+
+span{
+    font-weight: bolder;
+}
+
+
+
+
+.services{
+    background-color: white;
+
+}
+
+.pricing    {
+    background-color: #f4f6f7;
+    
+}
+
+.basic{
+
+    background-color: white;
+    border-radius: 7px
+    
+}
+
+.img_circle{
+    border-radius: 100%;
+
+}
+
+.border{
+    border:1px solid #f4f6f7;
+}
+
+form input{
+    padding: 10px;
+    margin: 10px;
+    border-radius:15px;
+}
+
+form textarea{
+    width: 36%;
+}
+
+.aione-footer{
+    background-color: #f4f6f7;
+    padding-bottom: 0px;
+    padding-left: 93px;
+    padding-top: 44px;
+    margin: 0px;
+}
+
+.aione-copyright{
+    background-color: #2b354f;
+}
+
+.aione-footer .ac i{
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-right: 19px;
+    font-size: 20px;
+}
+
+.aione-footer ul li{
+    padding: 10px;
+}
+
+.services i{
+    font-size: 40px;
+    color: blue;
+    padding: 10px;
+}
+
+.services span{
+    font-size: 30px;
+    
+
+}
+
+.services p{
+    font-size: 15px;
+    padding: 10px;
+}
+
+.pricing .ac *{
+    padding: 7px;
+}
+
+.name{
+    color: blue;
+    border-bottom: 5px solid blue;
+    width: fit-content;
+}
+
+.bas{
+    text-align: center;
+}
+
+.Pro{
+        text-align: left;
+}
+
+.Enterprise{
+    text-align: right;
+}
+
+.services ul {
+    font-style: poppins,sans-serif;
+}
+
+.pricing ul {
+    font-style: poppins,sans-serif;
+}
+
+.services ul {
+    font-style: poppins,sans-serif;
+}
