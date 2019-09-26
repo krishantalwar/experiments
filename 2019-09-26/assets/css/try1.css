@@ -1,0 +1,300 @@
+*{
+    margin: 0px;
+}
+
+body{
+
+    font-family: poppins,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #121212;
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+
+.header{
+    text-align: center;
+  
+}
+
+.aione-nav.horizontal {
+     border-bottom: 0px solid #e8e8e8;
+
+}
+
+.nav{
+   
+    width: -webkit-fill-available;
+    text-align: center;
+   
+}
+
+.slinks{
+    display: inline-flex;
+    font-size: 30px;
+}
+.slinks *{
+        padding:5px;
+}
+
+.shadow {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: linear-gradient(to bottom,#f0fdff, rgba(255,0,0,0) , transparent);
+    text-align: center;
+
+}
+
+.get{
+    background: linear-gradient(to right,#0067f4 0%,#2bdbdc 50%,#0067f4 100%);
+}
+
+.watch{
+    background-color: #fff;
+    box-shadow: 0 3px 6px 0 rgba(0,0,0,.16);
+    color: #0067f4;
+}
+.design{
+    position: absolute;
+    display: flex;
+    
+}
+
+.services .wrapper >.ac{
+    /* text-align: center; */
+}
+
+.services i{
+    font-size: -webkit-xxx-large;
+    color:blue;
+    padding: 5px;
+}
+
+.services .ac span{
+    font-size: x-large;
+}
+
+.services .ac > p{
+    padding-left: 30px;
+}
+
+
+.pricing{
+    text-align: center;
+    background-color: #f4f6f7;
+}
+
+.pricing .ar{
+    display: flex;
+}
+
+.pricing .ac{
+    background: white;
+    padding: 10px;
+
+}
+
+.basic > h5{
+    text-decoration: underline solid #5edbdc;
+    text-underline-position: under;
+    font-size: xx-large;
+}
+
+.basic > span{
+    font-size: -webkit-xxx-large;
+}
+
+.basic > p{
+    font-size: larger;
+}
+
+.basic > ul{
+    text-align: left;
+    padding: 30px;
+    font-size: medium;
+}
+
+.basic > ul li{
+    padding: 5px;
+}
+
+.basic ul li i{
+    padding: 10px;
+    color:blue;
+}
+
+
+.pro img{
+    width: 116px;
+    float: right;
+  
+    position: relative;
+}
+
+.pro div{
+    float: left;
+}
+
+.pro div h5{
+    text-decoration: underline solid #5edbdc;
+    text-underline-position: under;
+    font-size: xx-large;
+}
+
+.pro div span{
+    font-size: -webkit-xxx-large;
+}
+
+.pro div p{
+    font-size: larger;
+
+}
+
+
+.pro > ul{
+    float: left;
+    padding: 30px;
+    font-size: medium;
+}
+
+.pro > ul li{
+    padding: 5px;
+}
+
+.pro ul li i{
+    padding: 10px;
+    color:blue;
+}
+
+
+.enterprise{
+  
+}
+
+.enterprise img{
+    float: left;
+}
+
+
+
+
+
+.enterprise div h5{
+    text-decoration: underline solid #5edbdc;
+    text-underline-position: under;
+    font-size: xx-large;
+    text-align: right;
+}
+
+.enterprise div span{
+    font-size: -webkit-xxx-large;
+}
+
+.enterprise div p{
+    font-size: larger;
+
+}
+
+
+
+.enterprise > ul{
+    float: left;
+    padding: 30px;
+    font-size: medium;
+}
+
+.enterprise > ul li{
+    padding: 5px;
+}
+
+.enterprise ul li i{
+    padding: 10px;
+    color:blue;
+}
+
+#aside{
+    background-color: #3b67f4;
+    color: white;
+}
+
+#aside *{
+    padding: 10px
+}
+
+
+.tesimonial{
+    background-color: #fff;
+    text-align: center;
+}
+
+.tesimonial .ar{
+    padding-top: 30px;
+}
+
+.tesimonial .ar  .ac{
+    margin: 10px;
+    padding: 30px;
+    border: 1ps solid;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,.1);
+}
+
+
+.tesimonial .ar img{
+    border-radius: 100%;
+}
+
+.contact{
+    text-align: center;
+}
+
+form *{
+    padding:10px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid #cbced1;
+    background-color: #fff;
+    font-size: 16px;
+    overflow: visible;
+    height: auto;
+}
+
+textarea{
+    width: 41%;
+}
+
+input[type='submit']{
+    color:white;
+    background-color: blue;
+}
+
+.footer .ar > .slinks {
+    float: left;
+    padding-top: 36px;  
+    padding-left: 100px;  
+}
+
+.mai *{
+    padding:10px;
+}
+
+.sub{
+
+    text-align: center;
+}
+
+
+.copy{
+    background-color: #2b354f;
+    color: white;
+}
+
+.copy h4{
+    color: white;
+}
